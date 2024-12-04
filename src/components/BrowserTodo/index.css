@@ -1,0 +1,32 @@
+.cards {
+  text-align: start;
+  display: flex;
+  padding: 10px;
+  align-items: center;
+}
+.inner-card {
+  display: flex;
+  padding-left: 40px;
+  align-items: center;
+  width: 1000px;
+}
+.ima {
+  height: 30px;
+  padding-right: 20px;
+}
+.time {
+  font-weight: bold;
+  color: #64748b;
+}
+.title {
+  font-weight: bold;
+  color: #475569;
+  padding-right: 10px;
+}
+.para {
+  color: #64748b;
+}
+.icon1 {
+  border-width: 0px;
+  background-color: white;
+}
